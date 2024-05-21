@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Mesfin
-- 👀 I’m interested in Tech related stuff especially on A.I and the Blockchain technology
+- 👀 I’m interested in Tech related stuff especially on Web development, A.I and the Blockchain technology.
 - 🌱 I’m currently learning at Addis Ababa University 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 ANYONE can reach me at https://www.linkedin.com/in/samuel-mesfin-644381259/ 
